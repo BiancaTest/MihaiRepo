@@ -1,6 +1,6 @@
 {
   "name": "FailAnalzyer",
-  "description": "Process with a variable that exeeds lenght of 30\r\nAnd antoher variables that does not respect naming convention ",
+  "description": "Process with a variable that exeeds lenght of 30. And antoher variables that does not respect naming convention ",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.10.4]",
